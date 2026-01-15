@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xinchao
+=======
+xin chao
+>>>>>>> 5d8ac8952c8c5a3eed3a04ad84c2746c01780e3e
